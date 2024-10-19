@@ -37,5 +37,3 @@ volumes:
     driver: local
   kibana-data:
     driver: local
-    
-    
